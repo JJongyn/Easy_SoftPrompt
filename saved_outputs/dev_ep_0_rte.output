@@ -1,0 +1,1108 @@
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,   59,  834,   35, 5756,  297,    1])
+predicted label:	not_entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 20734,     1,     0,     0,     0])
+predicted label:	5.0
+golden label:	0
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 20734,     1,     0,     0,     0])
+predicted label:	5.0
+golden label:	1
+
+raw output:	tensor([    0,     3, 19162,     1,     0,     0,     0])
+predicted label:	3.2
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 12734,     1,     0,     0,     0])
+predicted label:	1.0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([    0,     3, 12734,     1,     0,     0,     0])
+predicted label:	1.0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	0
+
+raw output:	tensor([    0,     3, 15062,     1,     0,     0,     0])
+predicted label:	1.6
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([    0,     3, 15062,     1,     0,     0,     0])
+predicted label:	1.6
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 15062,     1,     0,     0,     0])
+predicted label:	1.6
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([    0,     3, 12734,     1,     0,     0,     0])
+predicted label:	1.0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([    0,     3, 15300,     1,     0,     0,     0])
+predicted label:	2.2
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([    0,     3, 12734,     1,     0,     0,     0])
+predicted label:	1.0
+golden label:	0
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 15062,     1,     0,     0,     0])
+predicted label:	1.6
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([    0,     3, 20734,     1,     0,     0,     0])
+predicted label:	5.0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([    0,     3, 12734,     1,     0,     0,     0])
+predicted label:	1.0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([    0,     3, 20734,     1,     0,     0,     0])
+predicted label:	5.0
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([    0,     3, 11739,     1,     0,     0,     0])
+predicted label:	0.0
+golden label:	1
+
+raw output:	tensor([   0,   59,  834,   35, 5756,  297,    1])
+predicted label:	not_entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1,    0])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([    0,     3, 15300,     1,     0,     0])
+predicted label:	2.2
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1,   0,   0])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	0
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	1
+
+raw output:	tensor([   0,    3,   35, 5756,  297,    1])
+predicted label:	entailment
+golden label:	1
+

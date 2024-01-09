@@ -1,0 +1,1108 @@
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	0
+
+raw output:	tensor([  0, 209,   1,   0])
+predicted label:	1
+golden label:	1
+
+raw output:	tensor([  0,   3, 632,   1])
+predicted label:	0
+golden label:	1
+

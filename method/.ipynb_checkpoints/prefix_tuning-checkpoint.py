@@ -4,7 +4,7 @@ import torch.nn.functional as F
 
 
 class Prefix_tuning(nn.Module):
-    """ Prefix-Tuning: Optimizing Continuous Prompts for Generation """
+    """ Prefix-Tuning: Optimizing Continuous Prompts for Generation (ACL 2021) """
     def __init__(self, cfg, prefix_len=10, emb_size=768): 
         super(Prefix_tuning, self).__init__()
 

@@ -26,6 +26,9 @@ class Vanilla(nn.Module):
 def __init__(self, cfg, prefix_len=10, emb_size=768): 
     super(Vanilla, self).__init__()
 
+    # cfg
+    self.hidden_size = cfg."***".HIDDEN_SIZE
+
     # hyp        
     self.prefix_len = prefix_len 
     self.emb_size = emb_size

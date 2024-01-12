@@ -3,6 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 class Vanilla(nn.Module):
+    """The Power of Scale for Parameter-Efficient Prompt Tuning (EMNLP 2021)"""
     def __init__(self, cfg, prefix_len=10, emb_size=768): 
         super(Vanilla, self).__init__()
 

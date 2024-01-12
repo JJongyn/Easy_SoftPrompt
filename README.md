@@ -42,7 +42,7 @@ def generate(self):
 ```
 #### 3. Training
 ```python
-CUDA_VISIBLE_DEVICES=0 python main.py --datasets='copa' --model_name=vanilla --enc_prompt_tokens 10 -ts 16 -e 10 --save_name Vanilla
+CUDA_VISIBLE_DEVICES=0 python main.py --datasets='copa' --model_name=t5-base --method vanilla --enc_prompt_tokens 10 -ts 16 -e 10 --save_name Vanilla_test
 ```
 
 

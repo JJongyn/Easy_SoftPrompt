@@ -2,21 +2,24 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-class DPT(nn.Module):
-    """ Decomposed Prompt Tuning via Low-Rank Reparameterization (EMNLP 2023)"""
+import math 
+
+class DePT(nn.Module):
+    """ DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning (ICLR2023 underReview) """
     def __init__(self, cfg, prefix_len=10, emb_size=768): 
-        super(DPT, self).__init__()
+        super(DePT, self).__init__()
 
         # hyp
-        self.hidden_size = cfg.DPT.HIDDEN_SIZE
+        self.r = cfg.DEPT.R
+        self.alpha = cfg.DEPT.ALPHA
+        self.scaling = self.alpha / math.sqrt(self.r)
         
         self.prefix_len = prefix_len 
         self.emb_size = emb_size
 
-        
         # prompt 
-        self.emb_lora1 = nn.Parameter(torch.empty(self.prefix_len, self.hidden_size))
-        self.emb_lora2 = nn.Parameter(torch.empty(self.hidden_size, self.emb_size))
+        self.lora_embedding_A  = nn.Parameter(torch.empty(self.prefix_len, self.r))
+        self.lora_embedding_B  = nn.Parameter(torch.empty(self.r, self.emb_size))
 
     def init_prompt(self):
         random_range = 0.5 
@@ -25,4 +28,4 @@ class DPT(nn.Module):
 
     
     def generate(self):
-        return torch.matmul(self.prompt_first, self.prompt_second) 
+        return self.scaling * (self.lora_embedding_A @ self.lora_embedding_B)

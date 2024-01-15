@@ -23,8 +23,8 @@ class DePT(nn.Module):
 
     def init_prompt(self):
         random_range = 0.5 
-        self.prompt_first.data.uniform_(-random_range, random_range)
-        self.prompt_second.data.uniform_(-random_range, random_range)
+        self.lora_embedding_A.data.uniform_(-random_range, random_range)
+        self.lora_embedding_B.data.uniform_(-random_range, random_range)
 
     
     def generate(self):

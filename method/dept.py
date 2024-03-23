@@ -5,7 +5,7 @@ import torch.nn.functional as F
 import math 
 
 class DePT(nn.Module):
-    """ DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning (ICLR2023 underReview) """
+    """ DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning (ICLR 2024) """
     def __init__(self, cfg, prefix_len=10, emb_size=768): 
         super(DePT, self).__init__()
 

@@ -4,7 +4,7 @@ This repository contains an reimplementation of Soft Prompt tuning, a parameter-
 - ***Prefix-Tuning: Optimizing Continuous Prompts for Generation (ACL 2021)***
 - ***Residual Prompt Tuning: Improving Prompt Tuning with Residual Reparameterization (ACL Findings 2023)***
 - ***Decomposed Prompt Tuning via Low-Rank Reparameterization (EMNLP Findings 2023)***
-- ***DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning (ICLR UnderReview 2023)***
+- ***DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning (ICLR 2024)***
 - 
 ## Usage
 We currently only provide simple functionality for soft prompt tuning. 
